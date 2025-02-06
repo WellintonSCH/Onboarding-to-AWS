@@ -26,7 +26,3 @@ O IAM Identity Center, anteriormente conhecido como AWS Single Sign-On (SSO), é
 3. **Habilitar MFA**: Reforçar a segurança exigindo MFA para acessos sensíveis.
 4. **Monitoramento Contínuo**: Utilizar AWS CloudTrail para registrar acessos e atividades.
 5. **Revisão Regular de Permissões**: Auditar periodicamente as permissões atribuídas aos usuários.
-
-## Conclusão
-O controle de acesso na AWS é um aspecto crítico da segurança na nuvem. Utilizando IAM e IAM Identity Center de maneira eficaz, é possível garantir que os usuários tenham acesso apenas ao que realmente necessitam, protegendo dados e recursos da organização.
-
