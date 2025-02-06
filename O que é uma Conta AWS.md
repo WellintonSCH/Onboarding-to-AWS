@@ -19,6 +19,3 @@ Uma conta AWS é a unidade fundamental para criar e gerenciar recursos na Amazon
 
 ## Melhor Prática: AWS Organizations
 Se sua empresa precisa gerenciar várias contas AWS, o **AWS Organizations** permite consolidar e gerenciar permissões centralizadas, facilitando a governança e o controle dos custos.
-
-## Conclusão
-As contas AWS são essenciais para a organização e segurança dos seus recursos na nuvem. Utilizar várias contas pode trazer benefícios significativos em termos de controle financeiro, segurança e escalabilidade do seu ambiente AWS.
