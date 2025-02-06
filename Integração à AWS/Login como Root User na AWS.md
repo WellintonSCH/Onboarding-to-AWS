@@ -1,6 +1,5 @@
 ## Login como Root User na AWS
 
-### Passo a Passo:
 1. Acesse a AWS Management Console: [https://console.aws.amazon.com/](https://console.aws.amazon.com/).
 2. Caso veja a tela de login do IAM, clique em **Sign in using root user email**.
 3. Insira o email associado ao root user e clique em **Next**.
