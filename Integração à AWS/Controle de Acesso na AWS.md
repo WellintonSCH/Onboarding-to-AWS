@@ -1,6 +1,5 @@
 **Controle de Acesso na AWS**
 
-## Introdução
 O controle de acesso na AWS é essencial para garantir a segurança dos recursos e dados dentro da nuvem. A AWS oferece diversas ferramentas para gerenciar a autenticação e autorização de usuários, incluindo o AWS IAM (Identity and Access Management) e o IAM Identity Center.
 
 ## AWS IAM (Identity and Access Management)
