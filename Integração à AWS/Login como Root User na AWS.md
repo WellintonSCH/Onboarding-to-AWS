@@ -26,6 +26,3 @@ Se sua empresa precisa gerenciar várias contas AWS, o **AWS Organizations** per
 
 ## Conclusão
 As contas AWS são essenciais para a organização e segurança dos seus recursos na nuvem. Utilizar várias contas pode trazer benefícios significativos em termos de controle financeiro, segurança e escalabilidade do seu ambiente AWS.
-
----
-📌 **Dica:** Sempre utilize boas práticas de segurança, como autenticação multifator (MFA) e políticas de acesso restritivas para proteger sua conta AWS.
