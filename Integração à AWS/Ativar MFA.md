@@ -1,4 +1,4 @@
-**Tutorial: Ativar Autenticação Multifator (MFA) para o Usuário Root na AWS**
+**Ativar Autenticação Multifator (MFA) para o Usuário Root na AWS**
 
 A autenticação multifator (MFA) adiciona uma camada extra de segurança ao login na AWS, exigindo um código gerado por um dispositivo autenticador, além da senha.
 
