@@ -58,21 +58,6 @@ O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem A
 
 ---
 
-## **Como Começar**
-
-1. **Crie uma Instância EC2**:
-   - No Console da AWS, acesse **EC2** > **Launch Instance**.
-   - Escolha uma AMI e um tipo de instância.
-   - Configure segurança, armazenamento e rede.
-
-2. **Conecte-se à Instância**:
-   - Use um par de chaves SSH para acessar sua instância.
-
-3. **Monitore e Escale**:
-   - Use **Auto Scaling** e **CloudWatch** para gerenciar o desempenho.
-
----
-
 Este repositório é para fins educacionais. Consulte a [documentação oficial da AWS](https://docs.aws.amazon.com/ec2/) para mais detalhes.
 
 ---
