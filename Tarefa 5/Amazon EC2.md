@@ -50,7 +50,7 @@ O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem A
 
 ---
 
-## 📚 **Serviços Relacionados**
+##  **Serviços Relacionados**
 
 - **Amazon Lightsail**: Para projetos simples com custo previsível.
 - **Amazon ECS/EKS**: Para execução de aplicativos em contêineres.
@@ -58,7 +58,7 @@ O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem A
 
 ---
 
-## 🖥 **Como Começar**
+## **Como Começar**
 
 1. **Crie uma Instância EC2**:
    - No Console da AWS, acesse **EC2** > **Launch Instance**.
