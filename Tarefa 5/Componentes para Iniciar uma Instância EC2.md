@@ -113,4 +113,4 @@ Imagine que uma instância EC2 é como uma casa que você está alugando. Cada c
 
 ---
 
-**Desenvolvido por [Seu Nome] como parte da disciplina de Introdução ao Big Data e Data Analysis.**
+**Desenvolvido por Wellinton Schweitzer como parte da disciplina de Introdução ao Big Data e Data Analysis.**
