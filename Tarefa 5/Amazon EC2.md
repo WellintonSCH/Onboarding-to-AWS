@@ -73,8 +73,6 @@ O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem A
 
 ---
 
-## 📄 **Licença**
-
 Este repositório é para fins educacionais. Consulte a [documentação oficial da AWS](https://docs.aws.amazon.com/ec2/) para mais detalhes.
 
 ---
