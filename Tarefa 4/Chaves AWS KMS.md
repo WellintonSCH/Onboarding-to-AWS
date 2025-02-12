@@ -90,14 +90,4 @@ O **AWS Key Management Service (KMS)** permite criar e gerenciar chaves de cript
 
 ---
 
-## Próximos Passos
-- **Crie uma Chave Gerenciada pelo Cliente:**  
-  - Acesse o Console do AWS KMS e comece a gerenciar suas chaves.
-- **Explore Serviços Integrados:**  
-  - Verifique quais serviços da AWS suportam cada tipo de chave.
-- **Consulte a Documentação Oficial:**  
-  - Para mais detalhes, consulte a [documentação do AWS KMS](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html).
-
----
-
 **Nota:** Escolha o tipo de chave com base no nível de controle, custos e requisitos de conformidade do seu projeto.
