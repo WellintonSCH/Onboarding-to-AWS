@@ -105,12 +105,4 @@ O **AWS Config** é um serviço que fornece uma visão detalhada da configuraç�
 
 ---
 
-## Próximos Passos
-- **Habilite o AWS Config**:  
-  - Acesse o Console da AWS e comece a monitorar seus recursos.
-- **Explore a Documentação Oficial**:  
-  - Para mais detalhes, consulte a [documentação do AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/).
-
----
-
 **Resumo:** O AWS Config é uma ferramenta poderosa para monitorar, auditar e gerenciar a configuração de recursos na AWS. Use-o para garantir conformidade, segurança e governança eficiente dos seus recursos na nuvem! 😊
