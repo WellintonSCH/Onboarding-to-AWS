@@ -88,14 +88,4 @@ Você pode criar os seguintes tipos de orçamentos:
 
 ---
 
-## Próximos Passos
-- **Crie seu Primeiro Orçamento**:  
-   - Acesse o Console da AWS e comece a monitorar seus custos e uso.
-- **Configure Alertas**:  
-   - Defina notificações para manter o controle sobre seus gastos.
-- **Explore a Documentação Oficial**:  
-   - Para mais detalhes, consulte a [documentação do AWS Budgets](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets.html).
-
----
-
 **Nota:** O AWS Budgets é uma ferramenta essencial para otimizar custos e garantir que você esteja dentro dos limites planejados. Use-a para evitar surpresas na fatura da AWS!
