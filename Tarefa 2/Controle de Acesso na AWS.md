@@ -12,7 +12,7 @@ O IAM permite a criação e o gerenciamento de usuários e grupos, além da defi
 - **Autenticação Multifator (MFA)**: Adiciona uma camada extra de segurança para os logins.
 
 ## IAM Identity Center
-O IAM Identity Center, anteriormente conhecido como AWS Single Sign-On (SSO), é uma solução que permite o gerenciamento centralizado do acesso de usuários a serviços AWS e aplicações gerenciadas.
+O IAM Identity Center, é uma solução que permite o gerenciamento centralizado do acesso de usuários a serviços AWS e aplicações gerenciadas.
 
 ### Benefícios do IAM Identity Center
 - **Gerenciamento Centralizado**: Permite definir acessos para várias contas AWS em um único local.
