@@ -30,4 +30,53 @@ O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem A
 ### 5. **Integração com Outros Serviços**
    - **Auto Scaling**: Ajuste automático do número de instâncias com base na demanda.
    - **Elastic Load Balancing**: Distribuição de tráfego entre várias instâncias.
-   - **Amazon CloudWatch**: Monitoramento de desempenho e uso de inst
+   - **Amazon CloudWatch**: Monitoramento de desempenho e uso de instâncias.
+
+---
+
+## **Casos de Uso Comuns**
+
+1. **Hospedagem de Aplicativos Web**:
+   - Use instâncias EC2 para hospedar sites e aplicativos web.
+
+2. **Processamento de Dados**:
+   - Execute tarefas de computação intensiva, como análise de big data.
+
+3. **Ambientes de Desenvolvimento e Testes**:
+   - Crie ambientes temporários para desenvolvimento e testes.
+
+4. **Backup e Recuperação de Desastres**:
+   - Use instâncias EC2 para backups e planos de recuperação.
+
+---
+
+## 📚 **Serviços Relacionados**
+
+- **Amazon Lightsail**: Para projetos simples com custo previsível.
+- **Amazon ECS/EKS**: Para execução de aplicativos em contêineres.
+- **AWS Backup**: Para automatizar backups de instâncias EC2.
+
+---
+
+## 🖥 **Como Começar**
+
+1. **Crie uma Instância EC2**:
+   - No Console da AWS, acesse **EC2** > **Launch Instance**.
+   - Escolha uma AMI e um tipo de instância.
+   - Configure segurança, armazenamento e rede.
+
+2. **Conecte-se à Instância**:
+   - Use um par de chaves SSH para acessar sua instância.
+
+3. **Monitore e Escale**:
+   - Use **Auto Scaling** e **CloudWatch** para gerenciar o desempenho.
+
+---
+
+## 📄 **Licença**
+
+Este repositório é para fins educacionais. Consulte a [documentação oficial da AWS](https://docs.aws.amazon.com/ec2/) para mais detalhes.
+
+---
+
+**Desenvolvido por Wellinton Schweitzer como parte da disciplina de Introdução ao Big Data e Data Analysis.**
