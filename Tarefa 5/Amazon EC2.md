@@ -4,13 +4,13 @@ O **Amazon Elastic Compute Cloud (Amazon EC2)** é um serviço da AWS que fornec
 
 ---
 
-## 🚀 **O que é o Amazon EC2?**
+## **O que é o Amazon EC2?**
 
 O EC2 permite criar e gerenciar **instâncias** (servidores virtuais) na nuvem AWS. Você pode escalar a capacidade conforme necessário, adicionando ou removendo instâncias para lidar com picos de tráfego ou tarefas de computação intensiva.
 
 ---
 
-## 🛠 **Principais Recursos do EC2**
+## **Principais Recursos do EC2**
 
 ### 1. **Instâncias**
    - Servidores virtuais com diferentes configurações de CPU, memória, armazenamento e rede.
