@@ -1,6 +1,6 @@
 # Componentes para Iniciar uma Instância EC2
 
-Nesta tarefa, você explorará os principais componentes necessários para iniciar uma instância EC2 na AWS. Para facilitar o entendimento, usaremos a analogia de uma casa para descrever cada componente.
+Explorando os principais componentes necessários para iniciar uma instância EC2 na AWS. Para facilitar o entendimento, usaremos a analogia de uma casa para descrever cada componente.
 
 ---
 
