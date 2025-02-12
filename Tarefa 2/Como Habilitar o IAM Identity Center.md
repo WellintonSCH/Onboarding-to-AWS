@@ -1,5 +1,5 @@
 
-# Tutorial: Habilitar o IAM Identity Center na AWS
+# Como Habilitar o IAM Identity Center na AWS
 
 Este guia explica como habilitar o **IAM Identity Center** na AWS, uma ferramenta para gerenciar acesso centralizado a múltiplas contas e aplicativos.
 
