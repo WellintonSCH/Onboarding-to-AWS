@@ -5,7 +5,7 @@ Este guia explica como habilitar o **IAM Identity Center** na AWS, uma ferrament
 ---
 
 ## O que é o IAM Identity Center?
-O IAM Identity Center (antigo AWS SSO) permite gerenciar permissões e atribuições de aplicativos em várias contas da AWS. Ele oferece dois tipos de instâncias:
+O IAM Identity Center permite gerenciar permissões e atribuições de aplicativos em várias contas da AWS. Ele oferece dois tipos de instâncias:
 
 1. **Instância de Organização** (recomendado):  
    - Usada para gerenciar permissões em várias contas da organização AWS.
